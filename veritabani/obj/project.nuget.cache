@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "H/58ygS9Xkp7FTUOja5WS86xVlcdCAUoGf6+tft+owSooHb3rm2lgRsGWkkVl8SbzGXCRe3+naoDSaHPCSlh5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aslih\\source\\repos\\veritabani\\veritabani.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aslih\\.nuget\\packages\\npgsql\\6.0.1\\npgsql.6.0.1.nupkg.sha512",
+    "C:\\Users\\aslih\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
